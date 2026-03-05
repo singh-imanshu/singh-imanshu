@@ -12,7 +12,7 @@ I am currently an undergraduate student pursuing a B.Tech. in Electrical Enginee
 * **Cryptography & Security:** I enjoy implementing secure systems, such as using AES/GCM encryption for password vaults.
 * **Problem Solving:** I am actively involved in Data Structures & Algorithms and competitive programming.
 * **Puzzling & Quizzing:** I am an avid quizzer, and an active member of Gnosis, the quizzing club of MNNIT.
-* 
+
 ### Tech Stack
 * **Languages:** C++, Java, HTML, CSS
 * **Frameworks & Libraries:** Spring Boot, Spring AI, JavaFX
