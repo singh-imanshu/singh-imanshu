@@ -1,17 +1,12 @@
-# Hi there, I'm Himanshu Singh
+# Hi there, I'm Himanshu Kumar Singh
 
-I am currently an undergraduate student pursuing a B.Tech. in Electrical Engineering at Motilal Nehru National Institute of Technology (MNNIT) Allahabad. I am passionate about building secure, efficient, and scalable software solutions. 
-
-### What I'm Currently Working On
-* Currently, I am building a Portfolio Risk Analytics tool. 
-* This is a full-stack web application being developed using Spring Boot and React. 
-* It is designed to enable users to analyze multi-asset portfolios with quantitative metrics.
+I am currently an undergraduate student pursuing a B.Tech. in Electrical Engineering at Motilal Nehru National Institute of Technology (MNNIT) Allahabad. I am passionate about building secure, efficient, and scalable software solutions. I am actively seeking summer internship opportunities for Summer 2027. If you think I align with your team's requirements, please reach out to me over email at himanshu.20245044@mnnit.ac.in OR himanshu.2508@outlook.com
 
 ### My Interests
 * **Software Engineering & Development:** I have a strong interest in both web development and desktop application development.
 * **Cryptography & Security:** I enjoy implementing secure systems, such as using AES/GCM encryption for password vaults.
 * **Problem Solving:** I am actively involved in Data Structures & Algorithms and competitive programming.
-* **Puzzling & Quizzing:** I am an avid quizzer, and an active member of Gnosis, the quizzing club of MNNIT.
+* **Puzzling & Quizzing:** I take an interest in puzzling, and am an avid quizzer as an active member of Gnosis, the quizzing club of MNNIT.
 
 ### Tech Stack
 * **Languages:** C++, Java, HTML, CSS
