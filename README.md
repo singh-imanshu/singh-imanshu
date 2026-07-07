@@ -4,7 +4,7 @@ I am currently an undergraduate student pursuing a B.Tech. in Electrical Enginee
 
 ### My Interests
 * **Software Engineering & Development:** I have a strong interest in both web development and desktop application development.
-* **Cryptography & Security:** I enjoy implementing secure systems, such as using AES/GCM encryption for password vaults.
+* **Cryptography & Security:** I enjoy exploring and implementing secure systems.
 * **Problem Solving:** I am actively involved in Data Structures & Algorithms and competitive programming.
 * **Puzzling & Quizzing:** I take an interest in puzzling, and am an avid quizzer as an active member of Gnosis, the quizzing club of MNNIT.
 
